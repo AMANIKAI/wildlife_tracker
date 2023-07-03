@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="Created classes">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/add-animal.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/add-sighting.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/animals-table.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home-page.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/ranger-add.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/rangers-table.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/sightings.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/signtings-table.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/tables-layout.hbs" afterDir="false" />
+    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="added js file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +58,35 @@
       <option name="project" value="LOCAL" />
       <updated>1688328319454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created classes">
+      <created>1688329508648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329508648</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created templates">
+      <created>1688329541024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329541024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added js file">
+      <created>1688329763193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688329763193</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created classes" />
+    <MESSAGE value="Created templates" />
+    <MESSAGE value="added js file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added js file" />
   </component>
 </project>

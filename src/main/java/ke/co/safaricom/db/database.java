@@ -5,7 +5,7 @@ import org.sql2o.Sql2o;
 public class database {
     private static final Sql2o connection = new Sql2o(
 
-            "jdbc:postgresql://localhost:5432/wildlife_tracker",
+            "jdbc:postgresql://localhost:5432/animals_tracker",
             "postgres",
             "IloveJesus2023"
     );
