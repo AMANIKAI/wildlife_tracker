@@ -78,7 +78,7 @@ public class Main {
             Map<String, Object> animalObject = new HashMap<>();
             String animal = request.params("animal");
             animalObject.put("animal",Animals_DAO.oneAnimal(animal));
-            animalObject.put("similarSighting",Sighting_DAO.distinctSightings(animal);
+            animalObject.put("similarSighting" , Sighting_DAO.distinctSightings("animal"));
             animalObject.put("ranger", Rangers_DAO.allRangers());
             return new ModelAndView(animalObject, "add-sighting.hbs");
         }, views);

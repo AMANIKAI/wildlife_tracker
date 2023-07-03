@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="added js file">
+    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="added animals_tracker database psql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Animals_DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Animals_DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Rangers_DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Rangers_DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Sighting_DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/dao/Sighting_DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/db/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ke/co/safaricom/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home-page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home-page.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ranger-add.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/ranger-add.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/signtings-table.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sightings-table.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tables-layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/tables-layout.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +52,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke.co.safaricom.Main" />
+      <module name="wildlife_tracker.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ke.co.safaricom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688329763193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added animals_tracker database psql">
+      <created>1688373682717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688373682717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,6 +124,7 @@
     <MESSAGE value="Created classes" />
     <MESSAGE value="Created templates" />
     <MESSAGE value="added js file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added js file" />
+    <MESSAGE value="added animals_tracker database psql" />
+    <option name="LAST_COMMIT_MESSAGE" value="added animals_tracker database psql" />
   </component>
 </project>

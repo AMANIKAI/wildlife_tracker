@@ -1,8 +1,8 @@
-package ke.co.safaricom.db;
+package ke.co.safaricom.database;
 
 import org.sql2o.Sql2o;
 
-public class database {
+public class Database {
     private static final Sql2o connection = new Sql2o(
 
             "jdbc:postgresql://localhost:5432/animals_tracker",
