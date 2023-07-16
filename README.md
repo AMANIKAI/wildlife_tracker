@@ -23,7 +23,7 @@ The Wildlife Tracker App is a Java Spark SQL-based application that allows users
 
 ## Technologies Used
 
-The Wildlife Tracker App is built using the following technologies:
+### The Wildlife Tracker App is built using the following technologies:
 
 - Java: The primary programming language for the application.
 - PostgreSQL: A powerful, open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
