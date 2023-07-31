@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="edited homepage navbar" />
+    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="edited README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690829532422</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="edited homepage navbar">
+      <created>1690832102608</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1690832102609</updated>
+    </task>
+    <task id="LOCAL-00027" summary="edited README">
+      <created>1690832164647</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1690832164647</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +288,7 @@
     <MESSAGE value="adited readme file" />
     <MESSAGE value="added images" />
     <MESSAGE value="edited homepage navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited homepage navbar" />
+    <MESSAGE value="edited README" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited README" />
   </component>
 </project>
