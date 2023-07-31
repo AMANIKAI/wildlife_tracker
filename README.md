@@ -41,7 +41,7 @@ The Wildlife Tracker App is a Java Spark SQL-based application that allows users
 
 ## Known Bugs
 
-There are no known bugs on this project. In case you find some please share via email: zeuskeys@gmail.com
+There are no known bugs on this project. In case you find some please share via email: amanikai@gmail.com
 
 ## Contributions
 
