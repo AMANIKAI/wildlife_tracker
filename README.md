@@ -45,7 +45,7 @@ There are no known bugs on this project. In case you find some please share via 
 
 ## Contributions
 
-Contributions to the Wildlife Tracker App are welcome! If you find any issues or have ideas for new features, please submit them via zeuskeyz@gmail.com. Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
+Contributions to the Wildlife Tracker App are welcome! If you find any issues or have ideas for new features, please submit them via amanikai@gmail.com. Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
 
 ## Github URL Link
 

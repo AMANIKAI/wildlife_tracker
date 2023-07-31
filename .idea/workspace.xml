@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="edited homepage navbar">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/landing-page.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="7bec17d9-e332-432f-bb03-cbef8d91bd84" name="Changes" comment="edited homepage navbar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690829312696</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="edited homepage navbar">
+      <created>1690829475108</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690829475108</updated>
+    </task>
+    <task id="LOCAL-00025" summary="edited homepage navbar">
+      <created>1690829532422</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1690829532422</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
